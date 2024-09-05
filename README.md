@@ -1,1 +1,1 @@
-# Einführung in LaTex
+# Einführung in LaTeX
