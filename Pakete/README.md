@@ -6,4 +6,6 @@ Pakete werden in der Präambel eingebunden mit `\usepackage{*Paketname*}`. Sie s
 
 ## Praktische Pakete
 
-- \usepackage{amsmath}
+- ```amsmath```, wenn man oft Matheumgebungen hat
+- ```amssymb```, für weitere Symbole
+- ```graphicx```, für Bilder
