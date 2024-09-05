@@ -1,6 +1,6 @@
 # Matheumgebung
 
-Hier lernst du, wie
+Hier lernst du, wie man in LaTeX
 
-- man in LaTeX mathematische Symbole und Ausdrücke schreibt
-- man in LaTeX einen Beweis aufschreiben kann
+- mathematische Symbole und Ausdrücke schreibt
+- einen Beweis aufschreiben kann
