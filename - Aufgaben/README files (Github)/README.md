@@ -4,4 +4,5 @@ Readme Datei auf Github beschreiben das eigene Repository und beantworten wichti
 
 Die Syntax von Markdown (.md) ist sehr einfach.
 
-[Hier](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) gibt es mehr zum Nachlesen über README's auf Github
+- [Hier](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) gibt es mehr zum Nachlesen über README's auf Github
+- [Hier](https://www.markdownguide.org/cheat-sheet/) gibt es Befehle zum Nachlesen
