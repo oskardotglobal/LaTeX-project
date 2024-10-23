@@ -8,5 +8,3 @@
 
 [Tutorial](https://latex-tutorial.com/latex-appendix/)
 
-
-<img src="anhang.png" alt="anhang" width="150"/>
