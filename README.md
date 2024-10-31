@@ -1,3 +1,3 @@
-# Introduction into LaTeX
+# Introduction to LaTeX
 
-An introduction into LaTeX and Github for high school students
+An introduction to LaTeX and Github for high school students
