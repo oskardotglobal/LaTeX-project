@@ -20,14 +20,18 @@ Das Gute ist, dass Overleaf sich automatisch darum kümmert, dass das Dokument i
 
 ### Hauptteil
 
-Im Hauptteil fügt man alles hinzu, was man auch letzlich im PDF Dokument sieht. Also den ganzen Text, Bilder, Quellcodebeispiele usw. Da LaTeX im Gegensatz zu Word kein interaktiven Editor hat, muss man alles, was z.B. aussehen soll wie eine Überschrift, als solche definieren. Befehle beginnen in LaTeX mit `\` (backslash) und werden in Overleaf durch Farbe gekennzeichnet. Es gibt also Befehle für Überschriften, Bilder einfügen oder das Inhaltsverzeichnis. Am Anfang muss man fast alle Befehle im Internet nachschauen (in diesem Repository sind in den Ordnern auch einige zusammengetragen). Wenn man sich mit der zeit an LaTeX gewöhnt, wird der eigene Workflow deutlich schneller und die Befehle kommen einem allgemein als sehr intuitiv vor.
+Im Hauptteil fügt man alles hinzu, was man auch letzlich im PDF Dokument sieht. Also den ganzen Text, Bilder, Quellcodebeispiele usw. Da LaTeX im Gegensatz zu Word kein interaktiven Editor hat, muss man alles, was z.B. aussehen soll wie eine Überschrift, als solche definieren. Befehle beginnen in LaTeX mit `\` (backslash) und werden in Overleaf durch Farbe gekennzeichnet. Es gibt also Befehle für Überschriften, Bilder einfügen oder das Inhaltsverzeichnis. Nach dem Befehlnamen steht der Text, der die durch den Befehl definierte Eigenschaft hat, in geschweiften Klammern `{...}`.
+
+Am Anfang muss man fast alle Befehle im Internet nachschauen (in diesem Repository sind in den Ordnern auch einige zusammengetragen). Wenn man sich mit der zeit an LaTeX gewöhnt, wird der eigene Workflow deutlich schneller und die Befehle kommen einem allgemein als sehr intuitiv vor.
 
 
 
 ## Aufgabe
 
-Erstelle ein LaTeX Projekt mit 3 Kapiteln, wobei das erste Kapitel ein Unterkapital hat, welches widerum ein Unterkapitel hat. Füge anschließend nach dem Titel des Dokuemnts ein Inhaltsverzeichnis hinzu. _Hinweis: Hierfür ist nur ein Befehl nötig._
-
-Füge im zweiten Kapitel ein Bild hinzu, welches du z.B. auf https://unsplash.com/ gefunden hast.
+Erstelle ein LaTeX Projekt mit 3 Kapiteln, wobei das erste Kapitel ein Unterkapital hat, welches widerum ein Unterkapitel hat. Füge anschließend nach dem Titel des Dokuemnts ein Inhaltsverzeichnis hinzu.
 
 Füge im dritten Kapitel jeweils ein kursives, unterstrichenes und fettgedrucktes Wort hinzu, sowie eins, das sowohl fett als auch unterstrichen ist. Ändere außerdem die Farbe und Schriftgröße eines Wortes in diesem Kapitel. _Hinweis: Wenn du das Paket ```blindtext``` mit ```\usepackage{blindtext}``` einbindest, kannst du mit dem Befehl ```\blindtext``` dummy Text einfügen._
+
+## Tipp
+
+Hier sind einige der Befehle, die man in der Aufgabe braucht. Probier doch einfach mal aus, welche Effekte sie in LaTeX haben: `\section{}`, ` \subsection{}`, `\textbf{}`, `\textit{}`, `\tableofcontents`
