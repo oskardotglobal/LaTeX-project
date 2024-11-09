@@ -20,7 +20,7 @@ Das Gute ist, dass Overleaf sich automatisch darum kümmert, dass das Dokument i
 
 ### Hauptteil
 
-Im Hauptteil fügt man alles hinzu, was man auch letzlich im PDF Dokument sieht. Also den ganzen Text, Bilder, Quellcodebeispiele usw. Da LaTeX im Gegensatz zu Work kein interaktiven Editor hat, muss man alles, was z.B. aussehen soll wie eine Überschrift, als solches definieren. 
+Im Hauptteil fügt man alles hinzu, was man auch letzlich im PDF Dokument sieht. Also den ganzen Text, Bilder, Quellcodebeispiele usw. Da LaTeX im Gegensatz zu Word kein interaktiven Editor hat, muss man alles, was z.B. aussehen soll wie eine Überschrift, als solche definieren. Befehle beginnen in LaTeX mit `\` (backslash) und werden in Overleaf durch Farbe gekennzeichnet. Es gibt also Befehle für Überschriften, Bilder einfügen oder das Inhaltsverzeichnis. Am Anfang muss man fast alle Befehle im Internet nachschauen (in diesem Repository sind in den Ordnern auch einige zusammengetragen). Wenn man sich mit der zeit an LaTeX gewöhnt, wird der eigene Workflow deutlich schneller und die Befehle kommen einem allgemein als sehr intuitiv vor.
 
 
 
