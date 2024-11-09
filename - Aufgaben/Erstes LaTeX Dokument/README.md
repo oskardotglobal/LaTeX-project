@@ -10,6 +10,10 @@ Hier lernst du, wie
 
 ## Aufbau eines LaTeX Projekt
 
+LaTeX Projekte sind grob aufgeteilt in "Präambel" und Hauptteil. In der Präambel kann man grundlegende Eigenschaften des Projekts definieren (Papiergröße, Art des Projekts, Breite der Ränder, Schriftart) und Pakete einbinden. Das Einbinden von Paketen ermöglicht es einem z.B. Bilder einzufügen oder Mathesymbole zu verwenden. Wenn sich ein LaTeX Projekt nicht so verhält wie man erwartet, kann es daran liegen, dass man das benötigte Paket nicht in der Präambel eingebunden hat.
+
+Das Gute ist, dass Overleaf sich automatisch darum kümmert, dass das Dokument in der Präambel schon definiert wird und essentielle Pakete bereits eingebunden sind.
+
 ## Aufgabe
 
 Erstelle ein LaTeX Projekt mit 3 Kapiteln, wobei das erste Kapitel ein Unterkapital hat, welches widerum ein Unterkapitel hat. Füge anschließend nach dem Titel des Dokuemnts ein Inhaltsverzeichnis hinzu. _Hinweis: Hierfür ist nur ein Befehl nötig._
