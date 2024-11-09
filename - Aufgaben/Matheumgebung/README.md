@@ -2,7 +2,7 @@
 
 Hier lernst du, wie man in LaTeX mathematische Symbole und Ausdrücke schreibt.
 
-Eine Matheumgebung wird in LaTeX durch zwei Dollarzeichen vom restlichen normalen text abgetrennt: `$ ... $`.
+Eine Matheumgebung wird in LaTeX durch zwei Dollarzeichen vom restlichen normalen Text abgetrennt: `$ ... $`.
 
 # Aufgabe
 
