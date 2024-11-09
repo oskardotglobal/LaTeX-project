@@ -20,7 +20,7 @@ Das Gute ist, dass Overleaf sich automatisch darum kümmert, dass das Dokument i
 
 ### Hauptteil
 
-Im Hauptteil fügt man alles hinzu, was man auch letzlich im PDF Dokument sieht. Also den ganzen Text, Bilder, Quellcodebeispiele etc. 
+Im Hauptteil fügt man alles hinzu, was man auch letzlich im PDF Dokument sieht. Also den ganzen Text, Bilder, Quellcodebeispiele usw. Da LaTeX im Gegensatz zu Work kein interaktiven Editor hat, muss man alles, was z.B. aussehen soll wie eine Überschrift, als solches definieren. 
 
 
 
