@@ -20,6 +20,8 @@ Das Gute ist, dass Overleaf sich automatisch darum kümmert, dass das Dokument i
 
 ### Hauptteil
 
+Im Hauptteil fügt man alles hinzu, was man auch letzlich im PDF Dokument sieht. Also den ganzen Text, Bilder, Quellcodebeispiele etc. 
+
 
 
 ## Aufgabe
