@@ -6,6 +6,6 @@ Eine Matheumgebung wird in LaTeX durch zwei Dollarzeichen vom restlichen normale
 
 # Aufgabe
 
-Gehe durch die Bilder in diesem Ordner und stelle die dargestellten Terme so exakt wie möglich in LaTeX nach.
+Gehe die Screenshots in diesem Ordner durch und stelle die dargestellten Terme so exakt wie möglich in LaTeX nach.
 
 Im Internet oder diesem Repository findest du die notwendigen Befehehle dafür. 
