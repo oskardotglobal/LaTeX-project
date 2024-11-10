@@ -1,6 +1,6 @@
 # Tabellen in LaTeX 
 
-Um Tabellen in LaTeX zu erstellen, kann mna beispielsweise die Umgebung `tabular` benutzen. 
+Um Tabellen in LaTeX zu erstellen, kann man beispielsweise die Umgebung `tabular` benutzen. 
 
 LaTeX gibt uns sehr viel Freiraum bei der Erstellung von Tabellen, was auch heißt, dass wir jede scheinbare Kleinigkeit, die z.B. bei Word offensichtlich ist (wie dass Zellen durch Striche von anderen Zellen abgetrennt sind) explizit angeben müssen. Das kann am Anfang nervig scheinen, ist aber eine gute Sache, wenn wir z.B. komplexere Tabellen genau nach unseren Wünschen gestalten wollen.
 
