@@ -7,6 +7,7 @@ LaTeX gibt uns sehr viel Freiraum bei der Erstellung von Tabellen, was auch hei√
 ## Beispiel
 
 Schauen wir uns eine einfache 2x3 Tabelle an: 
+
 ![](image.png)
 
 Diese Tabelle wird durch den folgenden Code beschrieben: 
