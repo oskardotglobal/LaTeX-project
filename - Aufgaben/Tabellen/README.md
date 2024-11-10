@@ -39,6 +39,3 @@ Hinweis: Alle Abbildungen sind jeweils *eine* Tabelle.
 
 ![alt text](image-3.png)
 
-### Tabelle 4 (Pro)
-
-yet to come
