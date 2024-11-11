@@ -31,4 +31,4 @@ Füge im dritten Kapitel jeweils ein kursives, unterstrichenes und fettgedruckte
 
 ## Tipp
 
-Hier sind einige der Befehle, die man in der Aufgabe braucht. Probier doch einfach mal aus, welche Effekte sie in LaTeX haben: `\section{}`, ` \subsection{}`, `\textbf{}`, `\textit{}`, `\tableofcontents`
+Hier sind einige der Befehle, die man in der Aufgabe braucht. Probier doch einfach mal aus, welche Effekte sie in LaTeX haben: `\section{...}`, ` \subsection{...}`, `\textbf{...}`, `\textit{...}`, `\tableofcontents`
