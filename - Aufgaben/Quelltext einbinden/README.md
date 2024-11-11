@@ -6,5 +6,5 @@ Die `main.txt` Datei in diesem Ordner ist von der LaTeX Dokumentation von Overle
 
 Kopiere den Inhalt der Datei in ein Overleaf Projekt und mache folgende Änderungen:
 
-- Definiere eine neue Farbe mit einem geeigneten Namen und verwende diese, um eine bereits eingestellte Farbe für den Quellcode zu verändern.
+- Definiere eine neue Farbe mit einem geeigneten Namen und verwende diese, um eine bereits eingestellte Farbe für ein Bestandteil des Quellcodes zu verändern.
 - Erstelle mehrere Quellcode-Abschnitte in verschiedenen Programmiersprachen. (Im Internet findest du einfache Codebeispiele für sämtliche Sprachen.)
